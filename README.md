@@ -74,6 +74,7 @@
 
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" ><br><sub><sup>VS Code</td>
+    <td align="center"><img height='30' src="https://tse3.mm.bing.net/th?id=OIP.KvXJa7Z1CKC9CmoSn4jCZAHaHU&pid=Api&P=0&h=180" alt="vscode logo" ><br><sub><sup>Psql</td>
    
   </tr>
  <tr>
