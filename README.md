@@ -41,7 +41,7 @@
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=next" alt="next logo" ><br><sub><sup>Next.js</td>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=nodejs" alt="nodejs logo" ><br><sub><sup>Node Js</td>
-   
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
   </tr>
   <tr>
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=materialui" alt="material logo"><br><sub><sup>Material UI</td>
@@ -56,12 +56,7 @@
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=js" alt="javascript logo" ><br><sub><sup>JavaScript</td>
   </tr>
 
-  <tr>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=c" alt="c logo" ><br><sub><sup>C</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" ><br><sub><sup>C++</td>
-    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=ts" alt="typescript logo" ><br><sub><sup>TypeScript</td>
-
-  </tr>
+ 
 </table>
 
 <table align="right">
@@ -81,7 +76,12 @@
     <td align="center"><img height='30' src="https://skillicons.dev/icons?i=vscode" alt="vscode logo" ><br><sub><sup>VS Code</td>
    
   </tr>
+ <tr>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=c" alt="c logo" ><br><sub><sup>C</td>
+    <td align="center"><img height='30' src="https://skillicons.dev/icons?i=cpp" alt="cplusplus logo" ><br><sub><sup>C++</td>
+   
 
+  </tr>
   
 
  
@@ -101,14 +101,11 @@
   <h1></h1>
 <br clear="both">
 
-[![youtube logo](https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge)](https://youtube.com/@dev-Shivam999)
-[![instagram logo](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/aayushchouhan_24?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
-[![discord logo](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/542424022764355587)
-[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](dev-Shivam999@gmail.com)
-[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/dev-Shivam999)
-[![telegram logo](https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge)](https://t.me/dev-Shivam999)
-[![twitter logo](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/dev-Shivam999)
-[![twitch logo](https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge)](https://www.twitch.tv/techno_aayush)
+
+
+[![gmail logo](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](shivamswami982@gmail.com)
+[![linkedin logo](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+
 
 <img alt="github-snake"
   src="https://cdn.jsdelivr.net/gh/dev-Shivam999/dev-Shivam999@output/github-contribution-grid-snake-dark.svg" />
